@@ -1,5 +1,7 @@
 # flare-chat
 
+This repository is no longer being updated. This was the start of a front end for the original version of my group messaging API.
+
 ## Project setup
 ```
 npm install
